@@ -10,6 +10,7 @@ List of all my repositories with example [Ionic](https://ionicframework.com/) ap
 | ---- | -------- | ----------- |
 | `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Introductory example with event handler for button |
 | `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | Transation to another page |
+| `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
 | ...  | ...      | ...         |
 
 <br>
