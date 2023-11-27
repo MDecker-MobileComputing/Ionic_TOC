@@ -6,6 +6,10 @@ List of all my repositories with example [Ionic](https://ionicframework.com/) ap
 
 <br>
 
+Since we use Ionic with Angular, and Angular uses TypeScript, there is also a preparatory exercise for TypeScript: [Palindrom Checker](https://github.com/MDecker-MobileComputing/TypeScript_PalindromChecker)
+
+<br>
+
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
 | `ChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ChartDemo) | Using [Chart.js](https://www.chartjs.org/) with Ionic |
