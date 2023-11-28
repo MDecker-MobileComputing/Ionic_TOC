@@ -21,6 +21,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | Transation to another page |
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
 | `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PegSolitaire) | Board game [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) |
-| ...  | ...      | ...         |
+| `StringVergleich` | [Link](https://github.com/MDecker-MobileComputing/Ionic_StringVergleich) | App to compare the length of two strings entered by user, to be completed as exercise |
+| ...  | ...  | ...  |
 
 <br>
