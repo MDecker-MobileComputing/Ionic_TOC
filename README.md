@@ -2,7 +2,7 @@
 
 <br>
 
-List of all my repositories with example [Ionic](https://ionicframework.com/) apps.
+List of all my GitHub repositories with example [Ionic](https://ionicframework.com/) apps.
 
 <br>
 
