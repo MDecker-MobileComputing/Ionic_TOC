@@ -12,6 +12,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 
 | Name | Repo URL | Description |
 | ---- | -------- | ----------- |
+| `AbkVerz` | [Link](https://github.com/MDecker-MobileComputing/Ionic_AbkVerz) | Example for storing data with [ionic storag](https://ionicframework.com/docs/angular/storage) |
 | `AlertDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_AlertDemo) | Demo for different dialogs |
 | `ChartDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ChartDemo) | Using [Chart.js](https://www.chartjs.org/) with Ionic |
 | `Datumsberechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Datumsberechnung) | Calculate number of days between two days or add/substract number of days from a date |
