@@ -19,6 +19,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `GeografischeEntfernung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_GeografischeEntfernung) | Demo for getting current GPS location | 
 | `HalloName` | [Link](https://github.com/MDecker-MobileComputing/Ionic_HalloName) | Introductory example with event handler for button; with [GH Actions Workflow](https://github.com/MDecker-MobileComputing/Ionic_HalloName/blob/master/.github/workflows/ionic-angular-ci.yml) |
 | `KfzKennzeichen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KfzKennzeichen) | Query county/city codes of car number plates in Germany |
+| `KitchenTimer` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KitchenTimer) | Kitchen timer app to demonstrate usage of [plugin for local notifications](https://capacitorjs.com/docs/apis/local-notifications) |
 | `ListenDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_ListenDemo) | Presenting lists in an Ionic app |
 | `InformatikerSprueche`| [Link](https://github.com/MDecker-MobileComputing/Ionic_InformatikerSprueche) | Demo for translation of UI texts |
 | `KilometerUmrechnung` | [Link](https://github.com/MDecker-MobileComputing/Ionic_KilometerUmrechnung) | Transation to another page |
