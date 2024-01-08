@@ -26,6 +26,7 @@ Since we use Ionic with Angular, and Angular uses TypeScript, there is also a pr
 | `Lottozahlen` | [Link](https://github.com/MDecker-MobileComputing/Ionic_Lottozahlen) | App to be deployed as *Progressive Web App (PWA)* |
 | `MenueDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_MenueDemo) | "Hamburger Menu" for navigation in app|
 | `PegSolitaire` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PegSolitaire) | Board game [Peg Solitaire](https://en.wikipedia.org/wiki/Peg_solitaire) |
+| `PluginDemo` | [Link](https://github.com/MDecker-MobileComputing/Ionic_PluginDemo) |
 | `StringVergleich` | [Link](https://github.com/MDecker-MobileComputing/Ionic_StringVergleich) | App to compare the length of two strings entered by user, to be completed as exercise |
 | `WeitereUiKomponenten` | [Link](https://github.com/MDecker-MobileComputing/Ionic_WeitereUiKomponenten) | Demo for several UI elements provided by Ionic|
 | ...  | ...  | ...  |
